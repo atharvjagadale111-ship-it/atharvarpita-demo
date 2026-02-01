@@ -1,4 +1,4 @@
 # atharvarpita-demo
 this is my first repository.
 <br>
-author - atharv aamar jgadale
+author - atharv amar jgadale
